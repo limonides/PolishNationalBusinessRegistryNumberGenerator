@@ -1,4 +1,4 @@
 # PolishNationalBusinessRegistryNumberGenerator
 
-Polish National Business Registry Number Generator
+Polish National Business Registry Number Generator\n
 Generator numerów REGON.

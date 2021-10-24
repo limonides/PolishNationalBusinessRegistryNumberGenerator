@@ -1,1 +1,1 @@
-# PolishNationalBusinessRegistryNumber-
+# PolishNationalBusinessRegistryNumberGenerator
